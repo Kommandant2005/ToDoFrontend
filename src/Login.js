@@ -86,7 +86,7 @@ export default function Login({ setToken }) {
       </form>
       <div className="mt-5 text-center text-gray-700">
         Don't have an account?
-        <Link to="/signup">
+        <Link to="/register">
           <span className="text-orange-500 hover:underline font-semibold">
             Signup
           </span>
