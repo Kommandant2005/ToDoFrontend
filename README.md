@@ -27,15 +27,16 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    git clone https://github.com/Kommandant2005/ToDoFrontend.git
+   
    cd ToDoFrontend
 
-2. Install dependencies:
+3. Install dependencies:
 
    Make sure you have Node.js installed. Then run:
 
    npm install
 
-3. Start the application:
+4. Start the application:
 
    npm start
 
